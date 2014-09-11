@@ -6,8 +6,8 @@
 	:perl_version_from _:main ;
 	:version_from _:main ;
 	:readme_from _:main ;
-	:test_requires "Test::More 0.61", "lib"  ;
-	:requires "strict" , "autodie" , "constant", "Data::Dumper","Module::Runtime","Carp","File::Spec","IO::File","Text::Extract::Word" .
+	:test_requires "Test::More 0.61" ;
+	:requires "autodie" , "Module::Runtime","Text::Extract::Word" .
 
 _:main <http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#fileName> "lib/Acme/RunDoc.pm" .
 
