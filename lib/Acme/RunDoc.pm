@@ -5,7 +5,7 @@ use autodie;
 
 BEGIN {
 	$Acme::RunDoc::AUTHORITY = 'cpan:TOBYINK';
-	$Acme::RunDoc::VERSION   = '0.001';
+	$Acme::RunDoc::VERSION   = '0.002';
 }
 
 # 'undef' is Text::Extract::Word's default filter, and probably the only

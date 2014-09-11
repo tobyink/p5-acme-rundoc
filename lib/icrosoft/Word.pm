@@ -1,7 +1,7 @@
 package icrosoft::Word;
 BEGIN {
 	$icrosoft::Word::AUTHORITY = 'cpan:TOBYINK';
-	$icrosoft::Word::VERSION   = '0.001';
+	$icrosoft::Word::VERSION   = '0.002';
 }
 package main;
 use strict;
